@@ -1,0 +1,10 @@
+const firstName = "Sambhav";
+const lastName = "Saraswat";
+const fullName = `My full name is ${firstName} ${lastName}`;
+const randomNumber = Math.round((Math.random() * 10) + 1);
+console.clear();
+console.log(firstName);
+console.log(lastName);
+console.log(fullName);
+console.log(randomNumber);
+// document.cookie = 'reply=do you like this';
